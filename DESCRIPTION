@@ -54,7 +54,7 @@ Depends:
     R (>= 3.3),
     arkhe (> 0.2.2)
 Remotes:
-    tesselle/arkhe,
+    tesselle/arkhe@a063942a3c38515842f34a0c278c691d32099a33,
     tesselle/dimensio
 Imports:
     dimensio,
